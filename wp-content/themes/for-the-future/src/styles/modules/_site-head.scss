@@ -1,0 +1,26 @@
+.site-head {
+	min-height: 125px;
+	display: flex;
+	text-align: center;
+	align-items: center;
+	position: relative;
+	margin: 0 auto;
+	padding: 0 50px;
+	h1.logo {
+		margin: 0 auto;
+		font-size: 1.722em;
+		word-break:break-all;
+		a, a:hover, a:visited, a:active {
+			font-family: 'Noto Serif', 'Noto Serif Japanese', serif;
+			font-weight: 700;
+			text-decoration: none;
+			color: #353535;
+		}
+		img {
+			max-height: 37px;
+			max-width: 250px;
+			vertical-align: bottom;
+			padding-right: 10px;
+		}
+	}
+}

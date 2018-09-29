@@ -1,0 +1,278 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: noa\n"
+"POT-Creation-Date: 2018-05-22 10:15+0200\n"
+"PO-Revision-Date: 2018-04-04 14:35+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: archive.php:38 inc/template-functions.php:48 search.php:41
+msgid "Old"
+msgstr ""
+
+#: archive.php:39 inc/template-functions.php:49 search.php:42
+msgid "New"
+msgstr ""
+
+#: archive.php:40 inc/template-functions.php:50 search.php:43 single.php:25
+msgid "Post navigation"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:38
+msgid "One Comment"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:44
+#, php-format
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:75
+msgid "What do you think?"
+msgstr ""
+
+#: footer.php:83
+#, php-format
+msgid "Theme: Noa by <a href=\"%s\">j.r.s</a>."
+msgstr ""
+
+#: functions.php:60
+msgid "Primary"
+msgstr ""
+
+#: functions.php:121
+msgid "Footer Widgets 1"
+msgstr ""
+
+#: functions.php:123 functions.php:133 functions.php:143
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:131
+msgid "Footer Widgets 2"
+msgstr ""
+
+#: functions.php:141
+msgid "Footer Widgets 3"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer.php:33
+msgid "Animation for title and description"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "Theme options"
+msgstr ""
+
+#: inc/customizer.php:54
+msgid "Blog pagination options"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Set pagination type on posts list"
+msgstr ""
+
+#: inc/customizer.php:68
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/customizer.php:72
+msgid "Old/New (Default)"
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "Numerical"
+msgstr ""
+
+#: inc/customizer.php:83
+msgid "Social icons"
+msgstr ""
+
+#: inc/customizer.php:86
+msgid "Set url for social icons footer, with hidde icon set empty value."
+msgstr ""
+
+#: inc/customizer.php:97
+msgid "Instagram Url"
+msgstr ""
+
+#: inc/customizer.php:111
+msgid "Pinterest Url"
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Facebook Url"
+msgstr ""
+
+#: inc/customizer.php:137
+msgid "Twitter Url"
+msgstr ""
+
+#: inc/customizer.php:149
+msgid "Linkedin Url"
+msgstr ""
+
+#: inc/customizer.php:163
+msgid "Whatsapp Phone number"
+msgstr ""
+
+#: inc/template-functions.php:57 single.php:23
+msgid "Previous"
+msgstr ""
+
+#: inc/template-functions.php:58 single.php:24
+msgid "Next"
+msgstr ""
+
+#: inc/template-functions.php:59
+msgid "Page"
+msgstr ""
+
+#: inc/template-functions.php:82
+msgid "None (Default)"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:47
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:76
+msgid " / "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:83
+msgctxt "list item separator"
+msgid " / "
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:96
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:108
+msgid "Edit"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:2
+msgid "Search"
+msgstr ""
+
+#: searchform.php:3
+msgctxt "search words"
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:28 template-parts/content.php:61
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:41
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: template-parts/content.php:36
+msgid "Sticky post"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:49
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: widgets/recent-post-thumbnails.php:17
+msgid "Recent Posts"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "noa"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Theme thought for photography or photo blog, that's why priority is given to "
+"the highlighting of the images."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "J Rafael simarro"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://juanrafaelsimarro.com/"
+msgstr ""
